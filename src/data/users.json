@@ -1,0 +1,8 @@
+{
+    "admin": {
+      "username": "admin",
+      "password": "$2a$10$F3EcxS0Qtayz0r7SSbjWBO/QrcVZCFLnxDkzsQ6WKpbad4tp168cS",
+      "email": "admin@scstech.com",
+      "role": "admin"
+    }
+  }
